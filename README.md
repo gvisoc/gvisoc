@@ -10,7 +10,7 @@ My name is Gabriel, I am a Software Architect from Spain, and I moved to Austral
   - Seriously thinking in renaming my NAS to "pet sematary"
 - 🐍 I also like to play with Python and other languages, but at a much lower level.
 - 💎 I use Jekyll to publish stuff at my blogs.
-- 👋 I am on Mastodon! Say hi back and know more at <a rel="me" href="https://aus.social/@gvisoc">aus.social/@gvisoc</a>
+- 👋 I am on Mastodon! Say hi back and know more at <a rel="me" href="https://fedi.gvisoc.com/@gabriel">aus.social/@gvisoc</a>
 
 <!--
 **gvisoc/gvisoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
